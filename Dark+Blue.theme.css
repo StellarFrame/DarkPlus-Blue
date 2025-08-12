@@ -1,11 +1,11 @@
 /**
-  * @name Dark+
-  * @author DevEvil
-  * @version Dark+6
+  * @name Dark+Blue
+  * @author DevEvil Modified By Blue
+  * @version Dark+6+Blue
   * @description Highly customized dark and purple theme for Discord
   * @authorId 468132563714703390
   * @authorLink https://devevil.com
-  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @source https://github.com/StellarFrame/DarkPlus-Blue
   * @website https://devevil.com
   * @donate https://devevil.com/dnt
   * @invite jsQ9UP7kCA
@@ -23,8 +23,8 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-sec: #4196ff; /* Old #bb86fc */
+  --darkplus-links: #b5d6ff; /* Old #cdaef3 */
   --darkplus-home-icon: url(https://i.imgur.com/RvlNQ7k.png);
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
